@@ -1,2 +1,3 @@
 # pwhl-stats
-The automation of PWHL stats (per player) to be used for seasonal stats.
+# goal
+The main idea is to aggregate player data to formula season stats
